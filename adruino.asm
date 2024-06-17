@@ -1,0 +1,13 @@
+/assembly-examples
+    /x86
+        basic_arithmetic.asm
+        memory_management.asm
+        system_calls.asm
+    /x86-64
+        basic_arithmetic.asm
+        memory_management.asm
+        system_calls.asm
+    /arm
+        basic_arithmetic.asm
+        memory_management.asm
+        system_calls.asm
